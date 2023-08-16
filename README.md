@@ -6,5 +6,6 @@ The goal of this project is to implement a GUI application in Java using JavaFX 
 ![](/assets./screenshot.png)
 # Demo
 ![](https://img.youtube.com/vi/5SsO63m-Q5A/0.jpg)
+
 (https://www.youtube.com/watch?v=5SsO63m-Q5A)
 
